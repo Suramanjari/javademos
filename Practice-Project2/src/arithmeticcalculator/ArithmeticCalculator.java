@@ -13,7 +13,7 @@ public class ArithmeticCalculator {
 		System.out.println("Enter the second value");
 		b = s.nextDouble();
 		
-		System.out.println("Enter any operator(+, -, *, /):");
+		System.out.println("Enter any operator(+, -, *, /, %):");
 		char opt = s.next().charAt(0);
 		
 		switch(opt)
