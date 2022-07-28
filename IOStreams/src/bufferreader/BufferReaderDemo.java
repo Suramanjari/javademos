@@ -22,5 +22,4 @@ public class BufferReaderDemo {
 		
 		System.out.println("count of words in the file = " + count);
 	}
-
 }
